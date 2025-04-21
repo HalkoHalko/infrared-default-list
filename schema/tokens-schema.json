@@ -33,7 +33,14 @@
               "protocol": { "type": "string" },
               "symbol": { "type": "string" },
               "type": {
-                "enum": ["amm", "cdp", "perpetuals", "unknown", "vault"]
+                "enum": [
+                  "amm",
+                  "cdp",
+                  "perpetuals",
+                  "unknown",
+                  "vault",
+                  "money-market"
+                ]
               },
               "underlyingTokens": {
                 "items": { "pattern": "^0x[a-fA-F0-9]{40}$", "type": "string" },
