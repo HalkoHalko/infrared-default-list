@@ -644,7 +644,7 @@
       "name": "dHONEY",
       "protocol": "dolomite",
       "symbol": "dHONEY",
-      "type": "cdp",
+      "type": "money-market",
       "underlyingTokens": ["0xFCBD14DC51f0A4d49d5E53C2E0950e0bC26d0Dce"]
     },
     {
@@ -655,7 +655,7 @@
       "name": "dUSD₮0",
       "protocol": "dolomite",
       "symbol": "dUSD₮0",
-      "type": "cdp",
+      "type": "money-market",
       "underlyingTokens": ["0x779Ded0c9e1022225f8E0630b35a9b54bE713736"]
     },
     {
@@ -666,7 +666,7 @@
       "name": "dWBERA",
       "protocol": "dolomite",
       "symbol": "dWBERA",
-      "type": "cdp",
+      "type": "money-market",
       "underlyingTokens": ["0x6969696969696969696969696969696969696969"]
     },
     {
@@ -677,7 +677,7 @@
       "name": "dWBTC",
       "protocol": "dolomite",
       "symbol": "dWBTC",
-      "type": "cdp",
+      "type": "money-market",
       "underlyingTokens": ["0x0555E30da8f98308EdB960aa94C0Db47230d2B9c"]
     },
     {
@@ -688,7 +688,7 @@
       "name": "dWETH",
       "protocol": "dolomite",
       "symbol": "dWETH",
-      "type": "cdp",
+      "type": "money-market",
       "underlyingTokens": ["0x2F6F07CDcf3588944Bf4C42aC74ff24bF56e7590"]
     },
     {
